@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/Yexingshuai/mtg-ipa/blob/master/MTGSDKSample.ipa</string>
+					<string>https://raw.githubusercontent.com/Yexingshuai/mtg-ipa/master/MTGSDKSample.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
